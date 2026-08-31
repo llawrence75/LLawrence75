@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I am Lamont Lawrence.
+https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 
-<!--
-**llawrence75/LLawrence75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction]
 
-Here are some ideas to get you started:
+I am a graduate from Western Governor University with an interest in technology and a dedication to solving problems.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
