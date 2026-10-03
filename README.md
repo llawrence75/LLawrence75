@@ -1,4 +1,5 @@
 ## Hi there 👋, I am Lamont Lawrence.
+Cisco Network Engineer
 https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 
 [Brief Introduction]
@@ -9,14 +10,22 @@ I am a graduate from Western Governor University with an interest in technology 
 
 My journey in technology has led me to develop a passion for Network Engineering, now I am eager to also learn Python Programming to develop my skills in Network Automation.
 
+[Technical Knowledge]
+
+
+[Experience]
+
+
+[Education]
+
+
 [Skills]
 
-I have completed 10 Network Lab Simulation in EVE-NG. I have linked some of Visio Diagram to a couple:
 
 
- [Network Project]
+ [Home Network Project]
  
- The home labs are completed with Cisco and Juniper OS.
+ I have completed 10 Network Lab Simulation in EVE-NG. I have linked some of Visio Diagram to a couple. Labs are completed with Cisco and Juniper OS.
  + DHCP/DHCPv6
  + DMVPN
  + eBGP/iBGP
@@ -29,3 +38,6 @@ I have completed 10 Network Lab Simulation in EVE-NG. I have linked some of Visi
   <a href="https://credly.com" target="_blank" rel="noopener noreferrer">
   <img src="https://credly.com" alt="Cisco Certified Network Professional Enterprise" width="200" height="200">
 </a>
+
+Connect with me on:
+Linkedin
