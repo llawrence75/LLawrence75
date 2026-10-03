@@ -2,13 +2,13 @@
 <h1>Cisco Network Engineer</h1>
 https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 
-[Brief Introduction]
+<b> [Brief Introduction] </b>
 
-I am a graduate from Western Governor University with an interest in technology and a dedication to solving problems.
+<b>I am a graduate from Western Governor University with an interest in technology and a dedication to solving problems.</b>
 
-[Objectives]
+<b> [Objectives] </b>
 
-My journey in technology has led me to develop a passion for Network Engineering, now I am eager to also learn Python Programming to develop my skills in Network Automation.
+<b>My journey in technology has led me to develop a passion for Network Engineering, now I am eager to also learn Python Programming to develop my skills in Network Automation.</b>
 
 [Technical Knowledge]
 
