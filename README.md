@@ -11,24 +11,19 @@ My journey in technology has led me to develop a passion for Network Engineering
 
 [Skills]
 
-I have completed 20 Network Lab Simulation in EVE-NG. I have linked some of Visio Diagram to a couple:
+I have completed 10 Network Lab Simulation in EVE-NG. I have linked some of Visio Diagram to a couple:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
  [Network Project]
+ 
  The home labs are completed with Cisco and Juniper OS.
  + DHCP/DHCPv6
  + DMVPN
  + eBGP/iBGP
+ + EIGRP
  + MPLS
+ + Nexus vPC
+ + OSPF
  [Certifications]
 
   <a href="https://credly.com" target="_blank" rel="noopener noreferrer">
