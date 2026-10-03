@@ -17,7 +17,7 @@ https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 
 <b>9/2017 - Present</b>
 
-<span style="padding-left: 2em;">Spectrum</span>
+<span style="padding-left: 4em;">Spectrum</span>
 
 - <i>ISP Engineer</i>
 
