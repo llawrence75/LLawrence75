@@ -17,7 +17,7 @@ https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 
 <b>9/2017 - Present</b>
 
-- Spectrum
+<span style="padding-left: 2em;">Spectrum</span>
 
 - <i>ISP Engineer</i>
 
@@ -41,18 +41,17 @@ https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 
 <b><h3>[Education]</b></h3>
 
-9/2016 - 8/2019
+<b>9/2016 - 8/2019</b>
 
-Western Governor University
+- Western Governor University
 
-Bachelors of Science Information Technology
+- Bachelors of Science Information Technology
 
-2003 - 2008
+<b>2003 - 2008</b>
 
-Queensborough Community College
+- Queensborough Community College
 
-Associate in Applied Science
-
+- Associate in Applied Science
 
 
  <b><h3>[Home Network Project]</b></h3>
