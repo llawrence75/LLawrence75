@@ -4,7 +4,7 @@ https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 
 <b><h3>[Brief Introduction]</b></h3>
 
-<b>I am a graduate from Western Governor University with an interest in technology and a dedication to solving problems.</b>
+<b>I am a graduate from Western Governor University with an interest in learning new technology.</b>
 
 <b><h3>[Objectives]</b></h3>
 
