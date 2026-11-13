@@ -1,4 +1,4 @@
-## Hi there 👋, I am Lamont Lawrence.
+## Hi there 👋, I'm Lamont Lawrence.
 <h1>Network Engineer</h1>
 https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 
