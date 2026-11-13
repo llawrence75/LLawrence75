@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Lamont Lawrence.
-<h1>Cisco Network Engineer</h1>
+<h1>Network Engineer</h1>
 https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 
 <b><h3>[Brief Introduction]</b></h3>
