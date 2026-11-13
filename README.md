@@ -2,7 +2,7 @@
 <h1>Network Engineer</h1>
 https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 
----
+
 <b><h3>[Brief Introduction]</b></h3>
 
 <b>I am a graduate from Western Governor University with an interest in learning new technology.</b>
@@ -10,6 +10,8 @@ https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 <b><h3>[Objectives]</b></h3>
 
 <b>My journey in technology has led me to develop a passion for Network Engineering, now I am eager to also learn Python Programming to develop my skills in Network Automation.</b>
+
+---
 
 [Technical Knowledge]
 
