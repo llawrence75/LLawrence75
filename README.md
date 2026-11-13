@@ -59,12 +59,12 @@ https://www.linkedin.com/in/lamont-lawrence-15a21a73/
  I have completed 10 Network Lab Simulation in EVE-NG. I have linked some of Visio Diagram to a couple. Labs are completed with Cisco and Juniper OS.
  + DHCP/DHCPv6 (Cisco/Juniper)                         
  + DMVPN                                               
- + eBGP/iBGP (Cisco/Juniper)                           
+ + eBGP/iBGP (Cisco/Huawei/Juniper)                           
  + EIGRP                                              
  + IS-IS (Cisco/Juniper)                               
  + MPLS (Cisco/Juniper)
  + Nexus vPC
- + OSPF (Cisco/Juniper)
+ + OSPF (Cisco/Huawei/Juniper)
  + Route-Redistribution (Cisco/Juniper)
  + Site-to-Site VPN (Cisco/Juniper)
 
