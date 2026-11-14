@@ -8,11 +8,9 @@ https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 
 ---
 
-
-
  <b><h3>[Technical Knowledge]</b></h3>
  
- I have completed 10+ Network Lab with EVE-NG and the real hardware. Labs are completed with Cisco, Huawei and Juniper OS.
+ These are some of my home projects that I have completed with EVE-NG and real hardware. Labs are completed with Cisco, Huawei and Juniper OS.
  + DHCP/DHCPv6 (Cisco/Juniper/Linux/Windows)                         
  + DMVPN
  + DNS (Cisco/Juniper/Linux/Windows)                                             
