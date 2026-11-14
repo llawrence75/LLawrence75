@@ -10,15 +10,15 @@ https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 
  <b><h3>[Technical Knowledge]</b></h3>
  
- + Automation                         
+ + Automation (Netmiko/Python)                         
  + IP Addressing and Subnetting
  + Network Configuration                                             
  + Network Designing (Microsoft Visio)                           
  + Network Monitoring (Nagios/PRTG/Zabbix)                                              
  + Network Protocols                               
  + Network Security (ASA/Palo Alto)
+ + Network Troubleshooting
  + Routing and Switching
- + OSPF (Cisco/Huawei/Juniper)
  + Virtualization (VMWare vSphere)
  + Wireless Networking
 
