@@ -16,52 +16,13 @@ https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 [Technical Knowledge]
 
 
-<b><h3>[Experience]</b></h3>
-
-<b>9/2017 - Present</b>
-
-<span style="padding-left: 4em;">Spectrum</span>
-
-- <i>ISP Engineer</i>
-
-<b>11/2013 - 9/2017</b>
-
-- Broadridge
-
-- <i>Associate Network Operation Engineer</i>
-
-<b>3/2013 - 10/2013</b>
-
-- Cablevision
-
-- <i>Cisco Network Engineer</i>
-
-<b>8/2012 - 3/2013</b>
-
-- ARC
-
-- <i>Network Administrator</i>
-
-<b><h3>[Education]</b></h3>
-
-<b>9/2016 - 8/2019</b>
-
-- Western Governor University
-
-- Bachelors of Science Information Technology
-
-<b>2003 - 2008</b>
-
-- Queensborough Community College
-
-- Associate in Applied Science
-
 
  <b><h3>[My Projects]</b></h3>
  
  I have completed 10+ Network Lab with EVE-NG and the real hardware. Labs are completed with Cisco, Huawei and Juniper OS.
- + DHCP/DHCPv6 (Cisco/Juniper)                         
- + DMVPN                                               
+ + DHCP/DHCPv6 (Cisco/Juniper/Linux/Windows)                         
+ + DMVPN
+ + DNS (Cisco/Juniper/Linux/Windows)                                             
  + eBGP/iBGP (Cisco/Huawei/Juniper)                           
  + EIGRP                                              
  + IS-IS (Cisco/Juniper)                               
