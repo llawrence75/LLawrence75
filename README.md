@@ -10,17 +10,17 @@ https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 
  <b><h3>[Technical Knowledge]</b></h3>
  
- + DHCP/DHCPv6 (Cisco/Juniper/Linux/Windows)                         
- + DMVPN
- + DNS (Cisco/Juniper/Linux/Windows)                                             
- + eBGP/iBGP (Cisco/Huawei/Juniper)                           
- + EIGRP                                              
- + IS-IS (Cisco/Juniper)                               
- + MPLS (Cisco/Juniper)
- + Nexus vPC
+ + Automation                         
+ + IP Addressing and Subnetting
+ + Network Configuration                                             
+ + Network Designing (Microsoft Visio)                           
+ + Network Monitoring (Nagios/PRTG/Zabbix)                                              
+ + Network Protocols                               
+ + Network Security (ASA/Palo Alto)
+ + Routing and Switching
  + OSPF (Cisco/Huawei/Juniper)
- + Route-Redistribution (Cisco/Juniper)
- + Site-to-Site VPN (Cisco/Juniper)
+ + Virtualization (VMWare vSphere)
+ + Wireless Networking
 
 ---
 
