@@ -1,6 +1,9 @@
 ## Hi there 👋, I'm Lamont Lawrence.
 <h1>Network Engineer</h1>
-https://www.linkedin.com/in/lamont-lawrence-15a21a73/
+
+<h4 align="left">Connect with me:</h4><p align="left"><a href="https://linkedin.com/in/www.linkedin.com/in/lamont-lawrence-15a21a73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lamont-lawrence-15a21a73" height="30" width="40" /></a></p>
+
+---
 
 <b><h3>[Brief Introduction]</b></h3>
 
