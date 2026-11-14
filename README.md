@@ -35,7 +35,7 @@ https://www.linkedin.com/in/lamont-lawrence-15a21a73/
 
 ### 📂 My Projects
 
- These are some of my home projects that I have completed with EVE-NG and real hardware. Labs are completed with Cisco, Huawei and Juniper OS.
+ These are some of my home projects that I have completed on EVE-NG and real hardware. Labs are completed with Cisco, Huawei and Juniper OS.
  
 | Project                                           | Description                                                                 |
 | :------------------------------------------------ | :-------------------------------------------------------------------------- |
